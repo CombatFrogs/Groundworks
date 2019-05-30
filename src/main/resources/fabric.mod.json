@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "groundworks",
+  "version": "${version}",
+  "name": "Groundworks",
+  "description": "A port of Earthworks by Alsender, a mod for Minecraft 1.12.2.",
+  "authors": [
+    "CryoSpider",
+    "Alsender"
+  ],
+  "license": "CC BY-NC-SA",
+  "icon": "assets/groundworks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.hoborific.cryo.modding.GroundworksInitializer"
+    ]
+  },
+  "mixins": [
+    "groundworks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

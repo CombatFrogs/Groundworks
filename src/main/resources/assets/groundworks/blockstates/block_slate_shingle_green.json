@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "groundworks:block/block_slate_shingle_green"
+    },
+    "facing=east": {
+      "model": "groundworks:block/block_slate_shingle_green",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "groundworks:block/block_slate_shingle_green",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "groundworks:block/block_slate_shingle_green",
+      "y": 180
+    }
+  }
+}

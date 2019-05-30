@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "groundworks:block/slate_green",
+    "top": "groundworks:block/slate_green",
+    "side": "groundworks:block/slate_green"
+  }
+}

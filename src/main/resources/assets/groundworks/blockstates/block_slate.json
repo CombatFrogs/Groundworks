@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "groundworks:block/block_slate"
+      },
+      {
+        "model": "groundworks:block/block_slate",
+        "y": 90
+      },
+      {
+        "model": "groundworks:block/block_slate",
+        "y": 180
+      },
+      {
+        "model": "groundworks:block/block_slate",
+        "y": 270
+      }
+    ]
+  }
+}

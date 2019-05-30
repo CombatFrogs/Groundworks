@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "groundworks:block/block_chalk"
+      },
+      {
+        "model": "groundworks:block/block_chalk",
+        "y": 90
+      },
+      {
+        "model": "groundworks:block/block_chalk",
+        "y": 180
+      },
+      {
+        "model": "groundworks:block/block_chalk",
+        "y": 270
+      }
+    ]
+  }
+}

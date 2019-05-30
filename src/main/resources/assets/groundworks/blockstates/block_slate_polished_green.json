@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "groundworks:block/block_slate_polished_green"
+      },
+      {
+        "model": "groundworks:block/block_slate_polished_green",
+        "y": 90
+      },
+      {
+        "model": "groundworks:block/block_slate_polished_green",
+        "y": 180
+      },
+      {
+        "model": "groundworks:block/block_slate_polished_green",
+        "y": 270
+      }
+    ]
+  }
+}

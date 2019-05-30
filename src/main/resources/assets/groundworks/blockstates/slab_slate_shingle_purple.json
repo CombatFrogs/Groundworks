@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "groundworks:block/slab_slate_shingle_purple"
+    },
+    "type=top": {
+      "model": "groundworks:block/slab_slate_shingle_purple_top"
+    },
+    "type=double": {
+      "model": "groundworks:block/block_slate_shingle_purple"
+    }
+  }
+}

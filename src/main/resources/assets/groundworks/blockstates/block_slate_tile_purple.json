@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "groundworks:block/block_slate_tile_purple"
+      },
+      {
+        "model": "groundworks:block/block_slate_tile_purple",
+        "y": 90
+      },
+      {
+        "model": "groundworks:block/block_slate_tile_purple",
+        "y": 180
+      },
+      {
+        "model": "groundworks:block/block_slate_tile_purple",
+        "y": 270
+      }
+    ]
+  }
+}

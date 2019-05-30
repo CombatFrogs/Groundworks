@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.hoborific.cryo.modding.world",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BiomeFeatures"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
