@@ -9,7 +9,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "B": {
-      "item": "groundworks:slab_slate_slab_purple"
+      "item": "groundworks:slab_slate_polished_purple"
     }
   }
 }
