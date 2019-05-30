@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "groundworks:slab_slate_slab",
+    "count": 6
+  },
+  "pattern": [
+    "BBB"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "groundworks:block_slate_polished"
+    }
+  }
+}

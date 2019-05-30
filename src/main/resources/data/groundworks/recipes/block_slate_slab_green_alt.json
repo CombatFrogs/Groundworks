@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "groundworks:block_slate_polished_green"
+  },
+  "pattern": [
+    "B",
+    "B"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "groundworks:slab_slate_slab_green"
+    }
+  }
+}

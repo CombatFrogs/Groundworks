@@ -1,0 +1,17 @@
+{
+  "result": {
+    "item": "groundworks:block_slate_polished_green",
+    "count": 8
+  },
+  "pattern": [
+    "SSS",
+    "S S",
+    "SSS"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "groundworks:block_slate_green"
+    }
+  }
+}
